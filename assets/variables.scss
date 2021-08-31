@@ -1,0 +1,15 @@
+$btn-text-transform: none;
+$btn-sizes: (
+  'x-small': 20,
+  'small': 28,
+  'default': 40,
+  'large': 44,
+  'x-large': 52,
+);
+
+$breadcrumbs-padding: 4px 0px;
+$card-elevation: 1;
+
+.container {
+  max-width: 1185px;
+}

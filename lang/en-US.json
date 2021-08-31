@@ -1,0 +1,14 @@
+{
+  "title": {
+    "articles": "Articles",
+    "createNewArticle": "Create new genre",
+    "genres": "Genres",
+    "createNewGenre": "Create new genre"
+  },
+  "button": {
+    "newArticle": "New article",
+    "createArticle": "Create article",
+    "newGenre": "New genre",
+    "createGenre": "Create genre"
+  }
+}
